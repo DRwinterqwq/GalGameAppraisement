@@ -1,2 +1,2 @@
-# DLMTP-BackUp
-DLMTP 备份仓库
+# GalGameAppraisement
+个人GalGame评测文件存档
